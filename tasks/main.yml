@@ -1,0 +1,4 @@
+---
+
+- name: Install s3cmd
+  easy_install: name=s3cmd
